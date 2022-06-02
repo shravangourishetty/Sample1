@@ -1,0 +1,2 @@
+#To Remove a Directory in shell
+rm -r "FolderName"
